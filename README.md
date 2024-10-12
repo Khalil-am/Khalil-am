@@ -8,6 +8,7 @@ I am a results-driven Data Scientist with a strong foundation in Python, SQL, an
     🚀 Certifications: AWS Data Engineer, Databricks Certified Data Engineer, Microsoft (PL-300, DP-500, DP-900), Tableau Certified Data Analyst, and more.
     🌍 Looking to Collaborate: I’m eager to work on innovative projects that push the boundaries of data science and software engineering.
     📫 Contact: Feel free to reach out via Email or connect with me on LinkedIn for any questions or collaboration opportunities!
+    🔥 Shipping as fast as possible new product every 2 weeks
 
 Visit my Website for more about my projects and publications.
 [www.khalil-am.com
