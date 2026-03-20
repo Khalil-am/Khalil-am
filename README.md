@@ -1,6 +1,6 @@
 👋 Hi, I’m Khalil Abu Mushref (@Khalil-am)
 
-I’m a senior IT business consultant and data scientist with over 6 years of experience leading AI-powered solutions, enterprise analytics platforms, and data-driven transformation across sectors like healthcare, fintech, and government.
+I’m a senior IT business consultant and data scientist with over 7 years of experience leading AI-powered solutions, enterprise analytics platforms, and data-driven transformation across sectors like healthcare, fintech, and government.
 I specialize in translating business requirements into scalable tech solutions—from building predictive models and BI dashboards to deploying full-stack AI applications. My work bridges strategy, software engineering, and data science to help organizations operate smarter.
 
 💼 What I Do
